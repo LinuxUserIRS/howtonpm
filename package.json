@@ -1,0 +1,22 @@
+{
+  "name": "@linuxuser/howtonpm",
+  "version": "1.0.1",
+  "description": "Package for the how-to-npm course from NodeSchool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinuxUserIRS/howtonpm.git"
+  },
+  "author": "Italo Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinuxUserIRS/howtonpm/issues"
+  },
+  "homepage": "https://github.com/LinuxUserIRS/howtonpm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
