@@ -1,6 +1,6 @@
 {
   "name": "@linuxuser/howtonpm",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Package for the how-to-npm course from NodeSchool.",
   "main": "index.js",
   "scripts": {
