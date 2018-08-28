@@ -1,6 +1,6 @@
 {
   "name": "@linuxuser/howtonpm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Package for the how-to-npm course from NodeSchool.",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/LinuxUserIRS/howtonpm#readme",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {}
 }
